@@ -1,0 +1,30 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    text-align: center;
+    
+}
+
+button {
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style: number;
+    list-style-position: inside;
+    line-height: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
