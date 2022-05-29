@@ -12,11 +12,12 @@ h1 {
 
 div {
     text-align: center;
-    
+    Position: sticky;
+    top: 0px;
 }
 
 button {
-    width: 50%;
+    width: 100%;
     padding: 10px;
     font-size: 20px;
 
