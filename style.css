@@ -24,6 +24,7 @@ button {
 
 ul {
     text-align: center;
+    color: white;
 }
 
 li {
@@ -32,4 +33,5 @@ li {
     line-height: 50px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
+     color: white;
 }
